@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HWFragments</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="first_fragment">First fragment</string>
+    <string name="second_fragment">Second Fragment</string>
+    <string name="button_fragment_2">Button Fragment 2</string>
+    <string name="enter_text">Enter text</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
